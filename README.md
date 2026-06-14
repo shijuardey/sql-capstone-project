@@ -274,7 +274,7 @@ Import query outputs into Power BI to create interactive visualizations and KPI 
 ### Live Repository
 
 ```text
-github.com/shijuardey/sql-capstone-project/edit/main
+https://github.com/shijuardey/sql-capstone-project.git
 ```
 
 ---
